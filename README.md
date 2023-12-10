@@ -1,2 +1,7 @@
 # RAS-TSYP
-This repository contains the code of our prototype that will be brought in the day of the presentation.
+
+This repository contains :
+
+The code of our prototype that will be brought in the day of the presentation.
+
+The detection model function in the file detect.py , it needs to be uploaded to run the code in colab.
